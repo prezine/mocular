@@ -30,7 +30,8 @@
   <a href="mailto:tom@circlepanda.io">Suggestions</a>
   <span> · </span>
   <a href="https://join.slack.com/t/circlepandalabs/shared_invite/zt-cz5mmp5w-gnZajsslGZmQICY74JyGhw">Join community</a>
-  
+</h3>
+
 Mocular brings to live your creative design on it's board combining awesome technology and framework to make out of your design, a fully fledge iOS or Android App. 
 
 With Mocular, you worry about your design and we use cutting edge technology to build an App on your creative sketch with full controls and have full access to the native hardware.
